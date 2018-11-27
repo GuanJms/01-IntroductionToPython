@@ -15,6 +15,8 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #   Write code that accomplishes the following (and ONLY the following),
 #   in the order listed:
 #
+
+
 #    - Constructs a SimpleTurtle with a  'blue'  Pen.
 #
 
