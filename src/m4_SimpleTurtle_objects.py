@@ -145,6 +145,7 @@ natasha.speed = 2
 #   STYLE RULE: Your names should always begin with a LOWER_CASE letter.
 #   So   mary   is OK   but   Mary   is NOT OK.
 #
+
 #   Then add more code that:
 #     -- Constructs a Pen object,
 #     -- assigns your SimpleTurtle's  pen  to the constructed Pen object, and
