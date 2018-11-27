@@ -131,7 +131,7 @@ natasha.backward(270)
 natasha.speed = 2
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   The above code  CONSTRUCTS  two SimpleTurtle objects
 #   and gives those objects NAMES:
 #       boris    natasha
@@ -155,10 +155,13 @@ natasha.speed = 2
 #   As always, test by running the module.
 #
 ###############################################################################
-
+james = rg.SimpleTurtle()
+james.forward(15)
+james.left(75)
+james.backward(222)
 ###############################################################################
 #
-# TODO: 6.
+# DONE: 6.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #   Run one more time to be sure that all is still OK.
 #
