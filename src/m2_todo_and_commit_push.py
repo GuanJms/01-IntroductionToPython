@@ -24,6 +24,7 @@ print('Hello, World')
 #        Run 'name of file'
 #   Or, use the keyboard shortcut:  Control + Shift + Function-F10.
 #
+
 #   After running, find the Run window and confirm that
 #        Hello, World
 #   did indeed get printed (displayed) on that window.
