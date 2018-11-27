@@ -17,6 +17,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #
 #    - Constructs a SimpleTurtle with a  'blue'  Pen.
 #
+
 #    - Makes the SimpleTurtle go straight UP 200 pixels.
 #
 #    - Makes the SimpleTurtle lift its pen UP
