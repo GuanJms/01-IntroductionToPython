@@ -30,6 +30,7 @@ Other key features include:
   -- While it can serve as an example for defining classes,
         it is NOT intended to do so for beginners.
         It is excellent for helping students learn to USE objects;
+
         it is NOT perfect for helping students learn to WRITE CLASSES.
 
 See the MAIN function below for typical examples of its use.
